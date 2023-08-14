@@ -1,0 +1,38 @@
+
+
+
+<div class="cartah">
+                    <div class="card mb-3" style="max-width: 540px;">
+                        <div class="row g-0">
+                          <div class="col-md-2">
+                            <img src="..." class="img-fluid rounded-start" alt="...">
+                          </div>
+                          <div class="col-md-10">
+                            <div class="card-body">
+                              <h5 class="card-title">Premio CENEVAL al Desempeño por Excelencia</h5>
+                              <p class="card-text"></p>
+                              <p class="card-text"><small class="text-muted">hace 4 semanas</small></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                </div>
+
+                <div class="cartav">
+                    <div class="card" style="width: 18rem;">
+                        <img src="..." class="card-img-top" alt="...">
+                        <div class="card-body">
+                          <h5 class="card-title">Card title</h5>
+                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                        <ul class="list-group list-group-flush">
+                          <li class="list-group-item">An item</li>
+                          <li class="list-group-item">A second item</li>
+                          <li class="list-group-item">A third item</li>
+                        </ul>
+                        <div class="card-body">
+                          <a href="#" class="card-link">Card link</a>
+                          <a href="#" class="card-link">Another link</a>
+                        </div>
+                      </div>
+                </div>
