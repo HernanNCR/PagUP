@@ -1,0 +1,336 @@
+
+/* entra logo y nombre */
+.logo{
+    width: auto;
+    height: 100px;
+    padding: 15px 0px 0px 60px;
+    
+    float: left;
+}
+/* solo entra nombre */
+.nombre{
+    width: auto;
+    padding: 11px 0px 0px 0px;
+    color:dimgray;
+    font-size: 13.5px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: right;
+    text-align: center;
+}
+/* entra toda la barra */
+.header{
+    width: auto;
+    height: 110px;
+    
+    border-width: 1px;
+    border-color: lightgray;
+    border-style: solid;
+    
+}
+
+.navbar{
+    width: auto;
+    height: 100px;
+    text-align: center;
+    float: right;
+    padding: 0px 200px 20px 40px;
+    font-size: 14px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.container{
+    width: auto;
+    height: 103px;
+    
+    
+}
+.container:hover{
+    
+    border-width: 0px 0px 2px 0px;
+    border-color: rgb(184, 184, 184);
+    border-style: solid;
+    
+}
+.palabra1{
+    color: black;
+    text-decoration: none;
+    
+}
+.container:hover .palabra1{
+    color: rgb(240, 147, 25);
+    transition: 0.5s;
+}
+.contenedor{
+    width: auto;
+    height: 40px;
+}
+
+.oe{
+    text-align: center;
+    height: 75px;
+    width: auto;
+}
+
+.col{
+    padding-left: 130px;
+}
+.co{
+    padding-left: 130px;
+}
+.ofertas{
+    width: 1250px;
+    
+    
+}
+.ofer{
+    width: 275px;
+    height: 320px;
+    padding-right: 10px;
+   
+}
+.ofer:hover{
+    filter: brightness(160%);
+    transition: 0.5s;
+}
+.rectangulo{
+    width: auto;
+    
+    background-image: url(https://www.upgch.mx/img/7.png);
+    height: 330px;
+    padding-left: 46px;
+    padding-top: 35px;
+    
+    
+}
+
+.rojo{
+    width: 525px;
+    height: 200px;
+    
+    display: inline-block;
+}
+.morado{
+    width: 555px;
+    height: 200px;
+    
+    display: inline-block;
+    padding-left: 30px;
+    
+}
+#valid{
+    height: 55px;
+}
+.col-md-12{
+    padding: 15px 0px 0px 0px;
+    
+}
+.boton{
+    width: 100px;
+    height: 100px;
+    float: right;
+    padding-top: 130px;
+    padding-right: 185px;
+}
+
+.btn{
+    width: 100px;
+    height: 100px;
+    color: white;
+    border-radius: 50%;
+    background-color: #ed2f59;
+}
+.btn:hover{
+    width: 100px;
+    height: 100px;
+    color: white;
+    border-radius: 50%;
+    background-color: #ed2f59 ;
+}
+.env{
+    padding-top: 2px;
+    width: 60px;
+}
+
+.video{
+    width: 1348px;
+    filter: brightness(100%);
+    transition: 0.5s;
+}
+.video:hover{
+    filter: brightness(160%);
+    transition: 0.5s;
+}
+.NE{
+    width: auto;
+    height: 630px;
+    
+    padding: 45px 50px 0px 68px;
+    
+}
+.noticias{
+    
+    width: 450px;
+    height: 500px;
+    display: inline-block;
+    padding: 15px 0px 0px 0px;
+}
+
+.eventos{
+    
+    width: 780px;
+    height: 500px;
+    display: inline-block;
+    padding: 20px 0px 0px 30px;
+    float:right;
+    
+}
+
+.cartav{
+    display: inline-block;
+
+}
+.cartah{
+    
+    /* border-color: lightgray;
+    border-style: solid; */
+
+    padding-bottom: 10px;
+}
+.card-bod{
+    width: 150px;
+    border: 2px;
+    border-color: lightgray;
+    border-style: solid;
+}
+
+.card-title{
+    font-size: 13px;
+    color:rgb(240, 147, 25);
+}
+.card-body{
+    font-size: 9;
+    background-color: white;
+}
+.tit{
+    font-size: 13px;
+}
+.card-text{
+    color: lightgray;
+    font-size: 10px;
+}
+.eventoss{
+    background-image:url(https://www.upgch.mx/img/multimedia/2023/07/evento_1689348297.jpg);
+}
+.evento1{
+    
+    border-width: 0px 0px 3px 0px;
+    border-color: rgb(240, 147, 25);
+    border-style: solid;
+}
+.evento2{
+    border-width: 0px 0px 3px 0px;
+    border-color: rgb(240, 147, 25);
+    border-style: solid;
+}
+.ultimo{
+    width: auto;
+    height: 360px;
+    background-color: white;
+    background-image: url(https://www.upgch.mx/img/7.png);
+    
+}
+.clm{
+    padding: 30px 0px 0px 40px;
+    
+    height: 350px;
+}
+
+.colums{
+    
+    width: 270px;
+    height: 249px;
+    display: inline-block;
+    
+}
+.colum{
+    
+    width: 320px;
+    height: 250px;
+    display: inline-block;
+    
+}
+.titulos{
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+}
+.titulos:hover{
+    
+    color:rgb(240, 147, 25) ;
+    transition: 0.5s;
+}
+.numeros{
+    text-decoration: none;
+    color: rgb(240, 147, 25);
+    font-size: 15px;
+}
+.dire{
+    padding-left: 10px;
+}
+.footer{
+    background-color: #333;
+    width: auto;
+    height: 110px;
+}
+.log{
+    width: auto;
+    height: 100px;
+    padding: 15px 0px 0px 60px;
+    display: inline-block;
+    
+}
+/* solo entra nombre */
+.nombr{
+    width: auto;
+    padding: 11px 0px 0px 0px;
+    color:white;
+    font-size: 13.5px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* float: right; */
+    text-align: center;
+    display: inline-block;
+}
+.barra{
+    width: 1000px;
+    height: 100px;
+    text-align: center;
+    float: right;
+    padding: 30px 10px 20px 0px;
+    font-size: 14px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+
+}
+.cont1{
+    padding-top: 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 13px;
+    width: 320px;
+    height: 70px;
+    color: rgb(83, 83, 94);
+    
+    
+    
+}
+.cont2{
+    padding-top: 20px;
+    display: inline-block;
+    width: 360px;
+    height: 50px;
+    color: rgb(83, 83, 94);
+    font-size: 13px;
+    /* float: right; */
+    text-align: right;
+    
+}
